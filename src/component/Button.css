@@ -1,0 +1,13 @@
+.button_div {
+    display: flex;
+    align-self:center;
+    margin: 20px;
+    padding: 10px 20px;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: initial;
+    font-weight: bolder;
+    background-color: #30336b;
+    color: white;
+}
